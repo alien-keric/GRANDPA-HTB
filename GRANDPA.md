@@ -3,7 +3,7 @@ WINDOWS MACHINE
 TARGET=10.10.10.14
 ```
 
-# scanning
+# SCANNING
 ```
 ┌──(alienx㉿alienX)-[~/Desktop/MACHINES/GRANDPA1]
 └─$ cat nmap.txt        
@@ -33,7 +33,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ```
 
 
-# enumeration
+# ENUMERATION
 ```
 port 80 (running a vulnerable microsoft webdav iis 6.0 )
 
@@ -92,7 +92,7 @@ usage:iis6webdav.py targetip targetport reverseip reverseport
 ```
 
 
-# exploitation
+# EXPLOITATION
 ```
 From public exploits
 
